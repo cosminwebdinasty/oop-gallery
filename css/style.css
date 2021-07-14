@@ -1,0 +1,14 @@
+
+
+.pager .active a {
+
+    background-color: black;
+    color:white;
+}
+
+
+.pager .active a:hover {
+
+    background-color: black;
+    color:white;
+}
